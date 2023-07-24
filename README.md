@@ -1,1 +1,2 @@
 # Hand-written-multi-digit-recognition
+Welcome to our cutting-edge research project focused on recognizing handwritten sequences of multiple digits using Convolutional Neural Networks (CNN). Our advanced model employs deep learning and computer vision techniques to achieve unparalleled precision in deciphering handwritten digit sequences. The system provides real-time predictions and a user-friendly interface, making it highly adaptable for various applications. Join us in this AI-powered journey and explore the exciting possibilities of digit recognition technology.
